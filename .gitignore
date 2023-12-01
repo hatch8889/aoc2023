@@ -1,0 +1,6 @@
+.idea
+.pytest_cache
+pyproject.toml
+poetry.lock
+data.txt
+day*.txt
